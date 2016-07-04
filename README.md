@@ -1,2 +1,6 @@
 # windowscontainer
 Workshop - Windows Container
+
+Technical workshop about Windows Container on Windows Server 2016. These project includes:
+
+- PowerPoint: based on MVA Course (what's new on Windows Server 2016). This presentation contains overview about Windows Containers and Docker. Also this presentation includes steps to conduct a practical lab about how to install Windows Container, Docker daemon and client. You can instruct your classroom to download and use these slides because there is a lot of commands in Powershell and Docker.
