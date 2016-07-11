@@ -1,5 +1,5 @@
 # windowscontainer
-Workshop - Windows Container
+Workshop - Windows Container and Hyper-V Container
 
 Technical workshop about Windows Container on Windows Server 2016. This project include:
 
