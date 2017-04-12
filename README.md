@@ -1,3 +1,8 @@
+
+Update: PPT updated to RTM (only the PT-BR version)
+
+
+
 # windowscontainer
 Workshop - Windows Container and Hyper-V Container
 
