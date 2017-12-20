@@ -12,4 +12,4 @@ Technical workshop about Windows Container on Windows Server 2016. This project 
 
 This workshop is based on Windows Server 2016
 
-Update: version 2.0 - include updated materials about Windows Container and orchestration with Kubernetes (PT-BR only)
+Update: version 2.2 - include updated materials about Windows Container and orchestration with Kubernetes and more infographics (PT-BR only) - part of this material came from TechSummit Sao Paulo 2017
